@@ -4,3 +4,4 @@ Added Compiler script
 Script that generates assembly code
 4. C program that prints an output
 Outputting characters without using puts
+6. Printing the sizes of various types
