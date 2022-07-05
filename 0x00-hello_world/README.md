@@ -6,3 +6,4 @@ Script that generates assembly code
 Outputting characters without using puts
 6. Printing the sizes of various types
 7. Script that generates assembly code
+8. Unix- a simple operating system
