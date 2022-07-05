@@ -3,3 +3,4 @@ My Hello World Programming in c
 Added Compiler script
 Script that generates assembly code
 4. C program that prints an output
+Outputting characters without using puts
