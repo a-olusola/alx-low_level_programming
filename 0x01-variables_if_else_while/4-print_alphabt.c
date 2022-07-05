@@ -2,13 +2,12 @@
 #include <stdlib.h>
 #include <string.h>
 
-/**
- *
+/*
  *    * The main function - Prints the alphabet without q and e.
  *
  *    * Returns 0 -> (Success)
  *
- *     */
+ */
 
 int main(void)
 
