@@ -1,10 +1,9 @@
 #include "main.h"
-
 /*
  *
- *  * main - Prints Holberton as a message.
+ *   main - Prints Holberton as a message.
  *
- *    * Return: Always 0 (Success)
+ *   Return: Always 0 (Success)
  *
  */
 
@@ -27,8 +26,8 @@ int main(void)
 	
 	}
 
-      _putchar('\n');
+	_putchar('\n');
 
-      return (0);
+	return (0);
 
 }
