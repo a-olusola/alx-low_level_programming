@@ -6,3 +6,4 @@ This Folder is about Functions and Nested Loops in c
 Printing chars of the alphabet
 5. Function to printsign of number
 Absolute value of an integer
+Function that prints the last digit of a number
