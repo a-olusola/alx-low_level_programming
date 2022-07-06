@@ -1,9 +1,9 @@
 #include "main.h"
-/*
+/**
  *
- *   main - Entry point
+ * main - Entry point
  *
- *   Return: Always 0 (Success)
+ * Return: Always 0 (Success)
  *
  */
 
@@ -22,7 +22,7 @@ int main(void)
 			
 	{	
 		
-	_putchar(str[count]); 
+		_putchar(str[count]); 
 	
 	}
 
