@@ -7,3 +7,4 @@ Printing chars of the alphabet
 5. Function to printsign of number
 Absolute value of an integer
 Function that prints the last digit of a number
+8. Jack Bauer's every minute of the day
