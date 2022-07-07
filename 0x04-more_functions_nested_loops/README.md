@@ -1,1 +1,2 @@
 READDME FOR ORE FUNCTION
+1. Check for digit
