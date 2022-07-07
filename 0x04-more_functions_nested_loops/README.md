@@ -7,3 +7,4 @@ Print 0-9 except 2 & 4
 6. Print Line
 Printing parallel diagonals
 8. Print square 
+9. FizzBuzz
