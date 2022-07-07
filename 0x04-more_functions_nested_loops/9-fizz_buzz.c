@@ -1,4 +1,4 @@
-#include "main.h"
+#include <stdio.h>
 /**
  * * fizz_buzz: Prints 1-100. But fizz with multiples of 3
  * * and buzz with multiples of 5. Tgen fizzbuzz for multiples of bothe 3 and 5
