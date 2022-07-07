@@ -8,3 +8,4 @@ Print 0-9 except 2 & 4
 Printing parallel diagonals
 8. Print square 
 9. FizzBuzz
+10. Print Triangles
