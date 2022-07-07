@@ -5,3 +5,4 @@ READDME FOR ORE FUNCTION
 Print 0-9 except 2 & 4
 5. Printing 0-14 ten times
 6. Print Line
+Printing parallel diagonals
