@@ -1,6 +1,8 @@
 #include "main.h"
 
 /**
+ * * main - checks the code
+ *
  * * print_triangle - prints a triangle.
  * * @size: numbers of lines.
  *
@@ -18,8 +20,8 @@ void print_triangle(int size)
 		for (j--; j < size; j++)
 			_putchar(35);
 		if (i < (size - 1))
-			_putchar("\n");
+			_putchar('\n');
 	}
-	_putchar("\n");
+	_putchar('\n');
 }
 		
