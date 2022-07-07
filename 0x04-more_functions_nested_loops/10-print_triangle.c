@@ -1,9 +1,10 @@
 #include "main.h"
 
 /**
- * * main - This is the entry point
+ * * print_triangle - prints a triangle.
+ * * @size: numbers of lines.
  *
- * * Return - Always 0
+ * * Return - no return
  *
  */ 
 void print_triangle(int size)
@@ -12,7 +13,7 @@ void print_triangle(int size)
 
 	for (i = 0; i < size; i++)
 	{
-		for (j = 1; j < (size -i); j++)
+		for (j = 1; j < (size - i); j++)
 			_putchar(' ');
 		for (j--; j < size; j++)
 			_putchar(35);
