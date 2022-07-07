@@ -9,3 +9,4 @@ Printing parallel diagonals
 8. Print square 
 9. FizzBuzz
 10. Print Triangles
+10. Printing the highest prime factor of a long int
