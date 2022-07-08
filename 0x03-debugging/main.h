@@ -1,6 +1,6 @@
-#ifndef main
+#ifndef _MAIN_H_
 
-#define main
+#define _MAIN_H_
 
 
 
@@ -18,4 +18,4 @@ void print_remaining_days(int month, int day, int year);
 
 
 
-#endif /* main */
+#endif /* _MAIN_H_*/
