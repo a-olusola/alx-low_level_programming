@@ -6,3 +6,4 @@ Pointers, Arrays and Strings
 5. Reversing a string
 6. Printing every character of a string
 7. Print half of a string
+Printing arrays
