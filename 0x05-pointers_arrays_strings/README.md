@@ -8,3 +8,4 @@ Pointers, Arrays and Strings
 7. Print half of a string
 Printing arrays
 Copying string pointed to, to another address
+10. Converting a String to an Integer
