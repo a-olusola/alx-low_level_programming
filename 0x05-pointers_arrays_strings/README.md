@@ -5,3 +5,4 @@ Pointers, Arrays and Strings
 3. Printing a string followed by a newline
 5. Reversing a string
 6. Printing every character of a string
+7. Print half of a string
