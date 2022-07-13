@@ -7,3 +7,4 @@ Pointers, Arrays and Strings
 6. Printing every character of a string
 7. Print half of a string
 Printing arrays
+Copying string pointed to, to another address
