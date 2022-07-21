@@ -3,3 +3,4 @@ RECURSION
 1. Reverse print a string recursively
 Printing length of string recursively
 3. Factorial of a given number
+4. x raised to the power of y
