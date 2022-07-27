@@ -3,3 +3,4 @@ MALLOC FREE
 1. Pointing to String Duplicate
 2. String Concatenation
 3. Returning a pointer to a 2D int array
+4. Freeing a 2D array
