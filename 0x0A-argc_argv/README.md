@@ -3,3 +3,4 @@ ARGC --  ARGV
 1. Printing the number of arguments passed
 Program that prints all arguments
 Program that multiplies two number
+4. Program that adds positive numbers
