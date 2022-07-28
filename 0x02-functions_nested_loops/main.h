@@ -1,6 +1,6 @@
-#ifndef _holberton_h_
+#ifndef _main_h_
 
-#define _holberton_h_
+#define _main_h_
 
 
 
