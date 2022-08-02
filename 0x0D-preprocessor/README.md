@@ -3,3 +3,4 @@ PREPROCESSOR
 1. Macro named Pi
 2. Print filename from which compilation occured
 3. Macro that returns absolute value
+4. Macro that computes sum of x and y
