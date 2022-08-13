@@ -3,3 +3,4 @@ SINGLY LINKED LISTS
 1. List Length function
 2. Add node to beginning of list
 3. Add node to list's end
+4. Free List
