@@ -5,3 +5,4 @@ SINGLY LINKED LISTS
 3. Add node to list's end
 4. Free List
 5. Function that prints before main exec
+6. Assembly code to print 'hello holberton'
