@@ -3,3 +3,4 @@ FILE INPUT OUTPUT
 Func to read text file
 2. Func to append to the end of a text file
 1. Function that creates file
+3. Func that copies from one file to another
